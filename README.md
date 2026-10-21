@@ -21,12 +21,12 @@ file handling, and password recovery.
 
 ## Project Structure
 
-cpp-login-registration-system/
-|
-|-- main.cpp
-|-- README.md
-|-- .gitignore
-|-- screenshots/
+cpp-login-registration-system/<br>
+|<br>
+|-- main.cpp<br>
+|-- README.md<br>
+|-- .gitignore<br>
+|-- screenshots/<br>
 
 ## How to Run
 
